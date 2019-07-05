@@ -1,0 +1,8 @@
+This folder contains the code related to the manusrcipt 
+"Conserved genomic neighborhood is a strong but no perfect indicator for a direct interaction of microbial gene products" 
+by Robert Esch and Rainer Merkl
+
+The folder "Application" contains the modified code of AGeNNT that was adapted to be able to communicate with the new version of the EFI software.
+The folder "Data" contains the list of studied hetero-dimeric complexes and some typical result files.
+The folder "Scripts" contains the Python scripts uses to generate the SSNs and GNNs and to analyse them.
+
